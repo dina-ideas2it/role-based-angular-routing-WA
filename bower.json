@@ -1,0 +1,41 @@
+{
+  "name": "role-based-routing-WA",
+  "authors": [
+    "dinakarankec <dinakarankec@gmail.com>"
+  ],
+  "description": "Rolse based Routing",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Angular",
+    "ui-router"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "jquery": "~2.2.0",
+    "angular": "#1.4.9",
+    "angular-resource": "~1.4.9",
+    "angular-cookies": "~1.4.9",
+    "angular-ui-router": "~0.2.17",
+    "font-awesome": "~4.5.0",
+    "angular-animate": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "angular-route": "~1.5.0",
+    "angular-messages": "^1.5.0",
+    "jquery-ui": "~1.11.4",
+    "toastr": "^2.1.2",
+    "angular-breadcrumb": "^0.4.1"
+  },
+  "resolutions": {
+    "angular": "1.4.9"
+  }
+}

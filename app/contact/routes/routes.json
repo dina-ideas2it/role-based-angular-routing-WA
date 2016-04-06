@@ -1,0 +1,19 @@
+{
+  "contact": {
+    "url": "/contacts",
+    "abstract": true,
+    "templateUrl": "app/contact/views/contacts.html"
+  },
+  "contact.list": {
+    "url": "/list",
+    "templateUrl": "app/contact/views/contact-list.html",
+    "controller" : "ContactListController",
+    "controllerAs": "clCtrl"
+  },
+  "contact.details": {
+    "url": "/detail",
+    "templateUrl": "app/contact/views/contact-detail.html",
+    "controller" : "ContactDetailController",
+    "controllerAs": "cdCtrl"
+  }
+}
